@@ -12,14 +12,15 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     𝐈𝐍𝐓𝐄𝐑𝐍𝐄𝐓 𝐇𝐄𝐋𝐏 𝐙𝐎𝐍𝐄 𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" 𝐀𝐑𝐈𝐘𝐀𝐍 𝐇𝐎𝐒𝐒𝐈𝐍 𝐒𝐇𝐈𝐇𝐀𝐁  [FR13ND8]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" 𝐀𝐑𝐈𝐘𝐀𝐍 𝐇𝐎𝐒𝐒𝐈𝐍 𝐒𝐇𝐈𝐇𝐀𝐁"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.𝚂𝙷𝙸𝙷𝙰𝙱] [MR.𝚁𝙰𝙺𝙸𝙱] [MR.B]"$i"         |"
+echo $i" |"$cy"            ~ [cyber] [%71.S%] [𝐙𝐀𝐑𝐀 𝐒𝐇𝐀𝐈𝐊𝐇]"$i"            |"
+echo $i" |"$pu" 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 :"$ku"https://www.youtube.com
+                         /channel/UCM4wF_X6IV4SNRumm4N_3IA "$i"             |"
+echo $i" |"$pu" 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙿𝙰𝙶𝙴 :"$ku" https://bit.ly/2WXBSBI"$i"             |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
